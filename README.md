@@ -9,7 +9,7 @@ git clone git@github.com:EricRisher/work-day-scheduler.git
 ```
 
 ## Project Visual
-![Alt text](<Screenshot Capture - 2023-11-12 - 00-29-05.png>)
+![Alt text](<Assets/Screenshot Capture - 2023-11-12 - 00-29-05.png>))
 
 ## Acceptance Criteria ✅
 GIVEN I am using a daily planner to create a schedule
@@ -32,4 +32,4 @@ To modify your schedule for a specific hour, click on the corresponding time blo
 
 ## Deployed Application
 You can view the live application
-[Here](https://ericrisher.github.io/work-day-scheduler/)
+[Here](https)
