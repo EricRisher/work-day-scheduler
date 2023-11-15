@@ -32,4 +32,4 @@ To modify your schedule for a specific hour, click on the corresponding time blo
 
 ## Deployed Application
 You can view the live application
-[Here](https)
+[Here](https://ericrisher.github.io/work-day-scheduler/)
