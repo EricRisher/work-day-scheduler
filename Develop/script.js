@@ -8,7 +8,7 @@ $(function () {
 
   function timeTracker() {
     //get current number of hours.
-    var timeNow = 12;
+    var timeNow = dayjs().hour();
     console.log(timeNow);
 
     // loop over time blocks
