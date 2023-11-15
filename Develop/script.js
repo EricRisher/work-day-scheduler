@@ -1,5 +1,3 @@
-const dayjs = require("dayjs");
-
 $(function () {
   var saveBtn = $(".saveBtn");
   saveBtn.on("click", function () {
@@ -10,7 +8,7 @@ $(function () {
 
   function timeTracker() {
     //get current number of hours.
-    var timeNow = dayjs().hour();
+    var timeNow = 12;
     console.log(timeNow);
 
     // loop over time blocks
